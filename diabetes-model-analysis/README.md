@@ -1,2 +1,2 @@
-#### daibetes model analysis using pandas , matplotlib and seaborn
+## Diabetes model analysis using pandas , matplotlib and seaborn
 
